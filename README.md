@@ -1,2 +1,2 @@
 # lockdown-simulator
-![](images/lockdown_logo.png)
+![](images/lockdown2_logo.png)
